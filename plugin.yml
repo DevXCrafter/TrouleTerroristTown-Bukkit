@@ -1,0 +1,7 @@
+name: TTTMiniGames
+version: 0.1.2
+author: DevXCrafter
+main: fr.devxcrafter.ttt.TTT
+
+commands:
+  setlobby:
